@@ -3,6 +3,8 @@
 ## Fusionando ramas
 ### Resolviendi conflictos
 #### Proceso manual
+
+## Trabajando con GitHub
 Integramos cambios *manualmente* usando el **editor** ~~favorito~~
 > Esto es una cita
 
